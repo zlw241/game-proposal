@@ -26,8 +26,8 @@ In addition, this project will include:
 
 This project will be implemented with the following technologies:
 
-JavaScript/HTML5 Canvas for game logic and rendering.
-A simple rails backend to keep track of users scores 
+- JavaScript/HTML5 Canvas for game logic and rendering.
+- A simple rails backend to keep track of users scores 
 
 In addition to the entry file, there will be three scripts involved in this project:
 
